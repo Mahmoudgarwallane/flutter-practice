@@ -1,16 +1,8 @@
-# dices_app
+## Dices App
 
-A new Flutter project.
+this app generates a random number using dices 
+and it displays the sum of the numbers as you see
+in the picture below
+## preview
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/68555232/149636617-01bcab1b-870a-4552-8d98-af432a7ea1a8.jpg" width="200">
