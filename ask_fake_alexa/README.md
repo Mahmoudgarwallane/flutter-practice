@@ -8,5 +8,5 @@ fake alexa
 
 <br/>
 <center>
-<video src="readme_assets/preview.mp4" autoplay loop width="200">
+<img src="readme_assets/preview.gif" width="200">
 </center>
