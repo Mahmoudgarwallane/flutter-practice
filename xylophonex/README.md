@@ -1,16 +1,10 @@
 # xylophonex
 
-A new Flutter project.
+you can use this app to play 
+music with xylophone 
+the button with the piano emoji plays bella ciao !!
 
-## Getting Started
+# Preview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+https://user-images.githubusercontent.com/68555232/150601040-f4f55196-c9c8-4d16-84a1-1a1a9848bfc8.mp4
