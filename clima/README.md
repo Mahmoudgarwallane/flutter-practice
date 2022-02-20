@@ -1,16 +1,11 @@
 # clima
 
-A new Flutter project.
+this app tells you the weather in your location and 
+you can also specify the loction using the name of the city you want
 
-## Getting Started
+# Preview
 
-This project is a starting point for a Flutter application.
+<center>
+<img src="https://user-images.githubusercontent.com/68555232/154852372-3158e680-c13c-4e49-b694-73323fc68d34.gif" width="200">
+</center>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
