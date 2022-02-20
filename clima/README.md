@@ -1,7 +1,7 @@
 # clima
 
 this app tells you the weather in your location and 
-you can also specify the loction using the name of the city you want
+you can also specify the location using the name of the city you want
 
 # Preview
 
