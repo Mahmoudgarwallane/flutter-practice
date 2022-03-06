@@ -1,16 +1,8 @@
 # flash_chat
+this app is a global chat app where you can login , logout , text friends ...
 
-A new Flutter project.
 
-## Getting Started
+<center>
+<img src="https://user-images.githubusercontent.com/68555232/156847875-f2eb5ee4-238b-4399-8b6c-1f1afc9df618.gif" width=200 >
+</center>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
